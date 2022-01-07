@@ -1,0 +1,19 @@
+﻿  Project.cpp
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(371,7): warning C4101: 'index': unreferenced local variable
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(423,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(425,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(553,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(751,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(801,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(803,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(805,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(812,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(816,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(940,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(941,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(952,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(953,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(1039,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(1100,6): warning C4101: 'len': unreferenced local variable
+C:\Users\LE HOANG\source\repos\Project\Project\Project.cpp(1099,8): warning C4101: 'c': unreferenced local variable
+  Project.vcxproj -> C:\Users\LE HOANG\source\repos\Project\Debug\Project.exe
